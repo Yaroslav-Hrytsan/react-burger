@@ -1,0 +1,9 @@
+export {default as cart} from "./shopping-cart.svg";
+export {default as burgerMenu} from "./hamburger.svg";
+export {default as hamburgerLogo} from "./burgerLogo.png";
+export {default as dell} from "./x.svg";
+export {default as searchIcon} from "./search.svg";
+export {default as menu} from "./menu.svg";
+export {default as listPlus} from "./list-plus.svg";
+export {default as arrowDown} from "./arrow-down-narrow-wide.svg";
+export {default as arrowUp} from "./arrow-down-wide-narrow.svg";

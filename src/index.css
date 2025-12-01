@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+
+*, *::before, *::after {
+  box-sizing: border-box;  /* всі елементи враховують padding у ширину/висоту */
+}
+/* =========================
+   3. HTML & Body
+   ========================= */
+html, body {
+  margin: 0;               /* прибираємо відступи браузера */
+  padding: 0;              /* прибираємо падінги браузера */
+  height: 100%;            /* дозволяє flex контейнеру займати всю висоту */
+  box-sizing: border-box;
+  overflow : auto;      /* прибирає горизонтальний скрол (біла смуга справа) */
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  background: #fff;
+  color: #111;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-width: 320px;        /* захист від дуже вузьких екранів */
+}
+body::-webkit-scrollbar {
+  display: none; /* Chrome, Edge, Safari */
+}
+/* =========================
+   6. Типові елементи
+   ========================= */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+ul, ol, li {
+  list-style: none;  
+}
+
+button {
+  cursor: pointer;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;         /* адаптивність медіа */
+}
+
+
+:root {
+  --main-padding: 24px;    /* можна використовувати у всьому проєкті */
+} 

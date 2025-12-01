@@ -1,0 +1,8 @@
+export {default as Header} from './Header'
+export {default as CartItem } from './CartItem'
+export {default as Categories} from './Categories'
+export {default as OrderItem} from './OrderItem'
+export {default as ProductCard} from './ProductCard'
+export {default as ProductsList} from './ProductsList'
+export {default as SearchInput} from './SearchInput'
+export {default as Sort} from './Sort'
