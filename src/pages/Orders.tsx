@@ -7,7 +7,7 @@ const Orders: React.FC = () => {
   const { orders, clearOrders } = useOrder()
   const isEmpty = orders.length === 0
   return (
-    <div className="container">
+    <div className="p-4">
       <div className="flex justify-between mb-4 items-center ">
         <h2 className="text-2xl font-semibold ">Мої замовлення</h2>
         <Link to="/">

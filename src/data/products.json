@@ -6,7 +6,7 @@
     "price": 120,
     "available": true,
     "ingredients": ["Булка", "Котлета", "Салат", "Соус"],
-    "image": "/public/products/burger.avif",
+    "image": "/products/burger.avif",
     "rating": 4.2
   },
   {
@@ -16,7 +16,7 @@
     "price": 160,
     "available": true,
     "ingredients": ["Булка", "велика котлета", "Салат", "Соус", "Сир"],
-    "image": "/public/products/big-burger.avif",
+    "image": "/products/big-burger.avif",
     "rating": 4.5
   },
   {
@@ -26,7 +26,7 @@
     "price": 140,
     "available": true,
     "ingredients": ["Булка", "Котлета", "Сир", "Салат", "Соус"],
-    "image": "/public/products/cheeseburger.avif",
+    "image": "/products/cheeseburger.avif",
     "rating": 4.7
   },
   {
@@ -36,7 +36,7 @@
     "price": 180,
     "available": true,
     "ingredients": ["Булка", "2 котлети", "2 скибки сиру", "Салат", "Соус"],
-    "image": "/public/products/double-cheeseburger.avif",
+    "image": "/products/double-cheeseburger.avif",
     "rating": 4.8
   },
   {
@@ -46,7 +46,7 @@
     "price": 200,
     "available": true,
     "ingredients": ["Булка", "2 котлети", "Сир", "Салат", "Соус"],
-    "image": "/public/products/double-big-burger.avif",
+    "image": "/products/double-big-burger.avif",
     "rating": 4.6
   },
     {
@@ -56,7 +56,7 @@
     "price": 200,
     "available": true,
     "ingredients": ["Булка велика", "2 котлети", "Сир", "Салат", "Помідор", "Соус"],
-    "image": "/public/products/burger-king.avif",
+    "image": "/products/burger-king.avif",
     "rating": 4.9
   },
       {
@@ -66,7 +66,7 @@
     "price": 200,
     "available": true,
     "ingredients": ["Булка ", "рибна-котлета", "Сир", "Соус"],
-    "image": "/public/products/fish-burger.avif",
+    "image": "/products/fish-burger.avif",
     "rating": 4.5
   },{
     "id": 8,
@@ -75,7 +75,7 @@
     "price": 200,
     "available": true,
     "ingredients": ["Булка велика", "2 рибні котлети", "Сир", "Салат", "Помідор", "Соус"],
-    "image": "/public/products/double-fish-burger.avif",
+    "image": "/products/double-fish-burger.avif",
     "rating": 4.7
   },
   {
@@ -85,7 +85,7 @@
     "price": 70,
     "available": true,
     "ingredients": ["Картопля", "Сіль"],
-    "image": "/public/products/fries.avif",
+    "image": "/products/fries.avif",
     "rating": 4.3
   },
   {
@@ -95,7 +95,7 @@
     "price": 80,
     "available": true,
     "ingredients": ["Картопля", "Спеції", "Олія"],
-    "image": "/public/products/potato-country.avif",
+    "image": "/products/potato-country.avif",
     "rating": 4.1
   },
   {
@@ -105,7 +105,7 @@
     "price": 85,
     "available": true,
     "ingredients": ["Картопля", "Соус"],
-    "image": "/public/products/potato-dips.avif",
+    "image": "/products/potato-dips.avif",
     "rating": 4.0
   },
   {
@@ -115,7 +115,7 @@
     "price": 50,
     "available": true,
     "ingredients": ["Вода", "Цукор", "Ароматизатори"],
-    "image": "/public/products/cola.avif",
+    "image": "/products/cola.avif",
     "rating": 4.4
   },
 
@@ -126,7 +126,7 @@
     "price": 50,
     "available": true,
     "ingredients": ["Вода", "Цукор", "Апельсиновий сік"],
-    "image": "/public/products/fanta.avif",
+    "image": "/products/fanta.avif",
     "rating": 4.2
   },
   {
@@ -136,7 +136,7 @@
     "price": 50,
     "available": true,
     "ingredients": ["Вода", "Цукор", "Ароматизатори"],
-    "image": "/public/products/sprite.avif",
+    "image": "/products/sprite.avif",
     "rating": 4.3
   },
   {
@@ -146,7 +146,7 @@
     "price": 25,
     "available": true,
     "ingredients": ["Томат", "Цукор", "Спеції"],
-    "image": "/public/products/sauce-bbq.avif",
+    "image": "/products/sauce-bbq.avif",
     "rating": 4.6
   },
    {
@@ -156,7 +156,7 @@
     "price": 25,
     "available": true,
     "ingredients": ["Томат", "Цукор", "Спеції"],
-    "image": "/public/products/ketchup.avif",
+    "image": "/products/ketchup.avif",
     "rating": 4.6
   },
   {
@@ -166,7 +166,7 @@
     "price": 25,
     "available": true,
     "ingredients": ["Сир", "Молоко", "Спеції"],
-    "image": "/public/products/sauce-cheese.avif",
+    "image": "/products/sauce-cheese.avif",
     "rating": 4.5
   },
   {
@@ -176,7 +176,7 @@
     "price": 25,
     "available": true,
     "ingredients": ["Часник", "Майонез", "Спеції"],
-    "image": "/public/products/sauce-garlic.avif",
+    "image": "/products/sauce-garlic.avif",
     "rating": 4.4
   },
   {
@@ -186,7 +186,7 @@
     "price": 220,
     "available": true,
     "ingredients": ["Бургер класичний", "Картопля фрі", "Кола"],
-    "image": "/public/products/menu-standard.avif",
+    "image": "/products/menu-standard.avif",
     "rating": 4.7
   },
   {
@@ -196,7 +196,7 @@
     "price": 280,
     "available": true,
     "ingredients": ["Дабл бургер", "Картопля фрі", "Фанта "],
-    "image": "/public/products/menu-standard.avif",
+    "image": "/products/menu-standard.avif",
     "rating": 4.8
   },
   {
@@ -206,7 +206,7 @@
     "price": 260,
     "available": true,
     "ingredients": ["Чізбургер", "Картопляні діпи", "Спрайт"],
-    "image": "/public/products/menu-cheese.avif",
+    "image": "/products/menu-cheese.avif",
     "rating": 4.6
   },
   {
@@ -216,7 +216,7 @@
     "price": 600,
     "available": true,
     "ingredients": ["Біг бургер", "Дабл чізбургер", "2 Картопля фрі", "Кола"],
-    "image": "/public/products/menu-family.avif",
+    "image": "/products/menu-family.avif",
     "rating": 4.9
   },
   {
@@ -226,7 +226,7 @@
     "price": 500,
     "available": true,
     "ingredients": ["Біг бургер", "Дабл чізбургер", "2 Картопля фрі", "пепсі"],
-    "image": "/public/products/heppy-menu.avif",
+    "image": "/products/heppy-menu.avif",
     "rating": 4.9
   }
 ]

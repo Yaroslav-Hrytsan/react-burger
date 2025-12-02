@@ -10,7 +10,7 @@ const App: React.FC = () => {
     <FilterProvider>
     <CartProvider>
       <OrderProvider>
-        <div className="app-container mt-24">
+        <div className="app-container">
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />

@@ -11,7 +11,7 @@ const Cart: React.FC = () => {
   const isEmpty = cartItems.length === 0;
 
   return (
-    <div className="p-4 container">
+    <div className="p-4">
       <div className="flex flex-col sm:flex-row justify-between mb-6 items-center gap-2">
         <h2 className="text-2xl font-semibold flex items-center gap-2">
           🛒 Кошик
