@@ -8,10 +8,10 @@ const Orders: React.FC = () => {
   const isEmpty = orders.length === 0
   return (
     <div className="p-4">
-      <div className="flex justify-between mb-4 items-center ">
+      <div className="flex flex-col sm:flex-row justify-between mb-6 items-center gap-2">
         <h2 className="text-2xl font-semibold ">Мої замовлення</h2>
         <Link to="/">
-          <button className="category py-1 px-4 rounded-lg transition-colors duration-200">Назад до товарів</button>
+          <button className="category py-1 px-4 rounded-lg transition-colors duration-200">Повернутись до товарів</button>
         </Link>
       </div>
 
